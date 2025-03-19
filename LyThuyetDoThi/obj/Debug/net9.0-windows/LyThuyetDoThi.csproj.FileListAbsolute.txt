@@ -1,0 +1,16 @@
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\net9.0-windows\LyThuyetDoThi.exe
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\net9.0-windows\LyThuyetDoThi.deps.json
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\net9.0-windows\LyThuyetDoThi.runtimeconfig.json
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\net9.0-windows\LyThuyetDoThi.dll
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\net9.0-windows\LyThuyetDoThi.pdb
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.Form1.resources
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.csproj.GenerateResource.cache
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.AssemblyInfoInputs.cache
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.AssemblyInfo.cs
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.csproj.CoreCompileInputs.cache
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.dll
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\refint\LyThuyetDoThi.dll
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.pdb
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\LyThuyetDoThi.genruntimeconfig.cache
+D:\WinFormC#\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\net9.0-windows\ref\LyThuyetDoThi.dll
